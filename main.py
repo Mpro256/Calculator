@@ -35,7 +35,7 @@ print(num1, ch , num2, ":", result)
 ae = input("Are you satisfied with your experience?")
 if ae == 'Yes':
     print('<3 Thank you!')
-    print('Made by Benjamin Kim')
+    print('Made by Mpro256')
 else :
-    print('Made by Benjamin Kim')
+    print('Made by Mpro256')
     
